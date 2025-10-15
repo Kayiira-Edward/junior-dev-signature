@@ -13,11 +13,11 @@ Adds a footer message:
 > *"Built by a Junior Developer © 2025"*
 
 Appends a signature to post titles:  
-> *"Hello World" → "Hello World | Junior Dev Project"*
+> *"title_text" → "title_text | Junior Dev Project"*
 
-Lightweight — no dependencies or extra setup needed.  
-Uses WordPress native action (`wp_footer`) and filter (`the_title`).  
-Fully compatible with the **Twenty Twenty-Five** theme.
+>Lightweight — no dependencies or extra setup needed.  
+>Uses WordPress native action (`wp_footer`) and filter (`the_title`).  
+>Fully compatible with the **Twenty Twenty-Five** theme.
 
 ## File Structure
 junior-dev-signature/
