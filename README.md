@@ -21,7 +21,7 @@ Appends a signature to post titles:
 
 ## File Structure
 >junior-dev-signature/
-       >>junior-dev-signature.php
+       junior-dev-signature.php
 ## Installation
 1. Download or clone this repository:
        git clone https://github.com/kayiira-edward/junior-dev-signature.git
