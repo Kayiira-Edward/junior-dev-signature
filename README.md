@@ -26,6 +26,6 @@ junior-dev-signature/
 1. Download or clone this repository:
        git clone https://github.com/kayiira-edward/junior-dev-signature.git
 2. Move the folder into your local WordPress installation:
-    *"wp-content/plugins/"*
+    **wp-content/plugins/**
 3. Go to your WordPress dashboard → Plugins → Installed Plugins.
 4. Activate Junior Dev Signature.
